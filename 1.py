@@ -1,4 +1,4 @@
-n,m = input().split()
+n,m = 6,8
 data_list = []
 for i in range(int(n)):
     data = input().split()

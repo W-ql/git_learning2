@@ -1,4 +1,4 @@
-n,m = 6,8
+n,m = 6,6
 d_list = []
 for i in range(int(n)):
     data = input().split()

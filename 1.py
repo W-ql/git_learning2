@@ -15,7 +15,7 @@ for i in range(int(n)):
             c += 1
     if c > maxvalue:
         maxvalue = c
-print(maxvalue)
+print('222')
 
 
 
